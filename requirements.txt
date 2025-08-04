@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+datetime
+yfinance
+wikipedia
+wordcloud
+Wikipedia-API
+contractions
+nltk
+gensim
+spacy
+pyLDAvis
