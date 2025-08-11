@@ -5,6 +5,7 @@ seaborn
 plotly
 datetime
 yfinance
+scikit-learn
 wikipedia
 wordcloud
 Wikipedia-API
@@ -13,3 +14,4 @@ nltk
 gensim
 spacy
 pyLDAvis
+missingno
