@@ -16,3 +16,5 @@ spacy
 pyLDAvis
 missingno
 statsmodels
+geopy
+folium
